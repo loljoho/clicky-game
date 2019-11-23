@@ -1,7 +1,7 @@
 {
   "name": "clicky",
   "version": "0.1.0",
-  "homepage": "https://jhadev.github.io/clicky-game",
+  "homepage": "https://loljoho.github.io/clicky-game",
   "private": true,
   "dependencies": {
     "gh-pages": "^2.1.1",
